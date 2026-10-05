@@ -1,2 +1,6 @@
 Java Project
+<<<<<<< HEAD
 remote feature added by team member x
+=======
+local feature added in feature branch in local repo
+>>>>>>> 443d65c (loacl commit feature branch)
